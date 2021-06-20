@@ -1,0 +1,16 @@
+/* navbar */
+.navbar {
+  padding: 3% 4%;
+}
+
+.logo-img {
+
+  margin: auto 1%;
+  border-radius: 100%;
+  width: 12%;
+  height: 12%;
+}
+
+.a {
+  background-image: url("images/");
+}
